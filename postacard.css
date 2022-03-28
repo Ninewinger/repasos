@@ -1,0 +1,21 @@
+body {
+    background: #000;
+    margin: 50px auto;
+}
+
+.contenedor {
+    width: 600px;
+    height: 500px;
+    background: rgb(221, 221, 221);
+}
+
+.titulo {
+    height: 150px;
+}
+.contenido {
+    display: flex;
+    height: 200px;
+}
+.boton {
+    height: 150px;
+}

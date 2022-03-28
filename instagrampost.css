@@ -1,0 +1,57 @@
+body {
+    background: #000;
+}
+
+.container {
+    width: 600px;
+    height: 800px;
+    background: rgb(221, 221, 221);
+    margin: 50px auto;
+}
+
+.imge {
+    height: 400px;
+    background: url(https://picsum.photos/id/237/500/300);
+    background-size: cover;
+}
+
+.title {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.logo {
+    display: flex;
+}
+
+.asd p {
+    margin: 0;
+}
+
+
+.icons {
+    margin: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+span {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
+}
+
+i {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text {
+    margin: 15px;
+}
